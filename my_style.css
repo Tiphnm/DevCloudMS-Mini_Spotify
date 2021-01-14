@@ -1,0 +1,105 @@
+.container 
+{
+background-color:  rgb(255, 255, 255);
+border-radius: 16px;
+opacity: 0.8;
+box-sizing: border-box;
+max-width: 700px;
+width: 100%;
+margin-right: auto;
+margin-left: auto;
+padding-right: 20px;
+padding-left: 20px;
+}
+
+body 
+{
+background-image: url("Background.jpg");
+background-size : 2000px;
+background-color: white;
+color: white;
+text-align: center;
+}
+
+h1
+{
+color:  rgb(177, 163, 39);
+font-family: 'Didot', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+background-color: white;
+border-radius: 16px;
+opacity: 1;
+}
+
+h2
+{
+font-family: 'Didot', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 26px;
+font-weight: bold;
+color: white;
+opacity: 1;
+}
+
+h3
+{
+font-family: 'Didot', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 26px;
+font-weight: bold;
+color: white;
+}
+
+ol
+{
+font-family: 'Didot', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+text-align: left;
+list-style-position: inside;
+color: white;
+}
+.container1 
+{
+color: white;
+background-color: rgb(43, 59, 46);
+border-radius: 16px;
+opacity: 1;
+margin-right: auto;
+margin-left: auto;
+padding-right: 20px;
+padding-left: 20px;
+}
+
+.container2
+{
+color: white;
+background-color: rgb(209, 190, 80);
+border-radius: 16px;
+opacity: 1;   
+margin-right: auto;
+margin-left: auto;
+padding-right: 20px;
+padding-left: 20px;
+}
+
+a 
+{
+font-family: 'Didot', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: white;
+}
+
+a:visited
+{
+font-family: 'Didot', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: white;
+}
+
+footer
+{
+color: white;
+font-family: 'Didot', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center; 
+}
+
+.fas
+{
+font-size: 50px;
+color: rgb(43, 78, 62);
+}
