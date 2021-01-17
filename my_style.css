@@ -2,7 +2,7 @@
 {
 background-color:  rgb(255, 255, 255);
 border-radius: 16px;
-opacity: 0.8;
+opacity: 0.6;
 box-sizing: border-box;
 max-width: 700px;
 width: 100%;
@@ -15,7 +15,7 @@ padding-left: 20px;
 body 
 {
 background-image: url("Background.jpg");
-background-size : 2000px;
+background-size : 2500px;
 background-color: white;
 color: white;
 text-align: center;
@@ -79,21 +79,10 @@ padding-right: 20px;
 padding-left: 20px;
 }
 
-a 
-{
-font-family: 'Didot', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-color: white;
-}
-
-a:visited
-{
-font-family: 'Didot', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-color: white;
-}
 
 footer
 {
-color: white;
+color: rgb(43, 78, 62);
 font-family: 'Didot', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 text-align: center; 
 }
@@ -102,4 +91,20 @@ text-align: center;
 {
 font-size: 50px;
 color: rgb(43, 78, 62);
+}
+
+thead 
+{
+    color:rgb(43, 78, 62) ;
+}
+
+thead th 
+{
+background-color: white; 
+opacity: 0.4; 
+}
+
+tbody td
+{
+text-align: left;
 }
